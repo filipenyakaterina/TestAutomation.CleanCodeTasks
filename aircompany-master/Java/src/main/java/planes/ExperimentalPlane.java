@@ -1,7 +1,7 @@
-package Planes;
+package planes;
 
-import Models.ClassificationLevel;
-import Models.ExperimentalType;
+import models.ClassificationLevel;
+import models.ExperimentalType;
 import java.util.Objects;
 
 public class ExperimentalPlane extends Plane{

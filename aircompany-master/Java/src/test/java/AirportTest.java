@@ -1,10 +1,10 @@
-import Models.ClassificationLevel;
-import Models.ExperimentalTypes;
-import Models.MilitaryType;
-import Planes.MilitaryPlane;
-import Planes.PassengerPlane;
-import Planes.ExperimentalPlane;
-import Planes.Plane;
+import models.ClassificationLevel;
+import models.ExperimentalTypes;
+import models.MilitaryType;
+import planes.MilitaryPlane;
+import planes.PassengerPlane;
+import planes.ExperimentalPlane;
+import planes.Plane;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
